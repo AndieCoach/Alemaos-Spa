@@ -1,4 +1,4 @@
-**IMPORTANT: AVOID ANY HASSLE BY READING THE FULL DOCUMENTATION, IT TAKES YOU LESS THAN 3 MINUTES TO DO IT. THANK YOU!**
+**IMPORTANT: AVOID ANY HASSLE, READ FULL DOCUMENTATION. THANK YOU!**
 
 ## Description
 This repository contains **COSMO LANDING PAGE Documentation,** a creative and modern webpage which at this time announces the upcoming launch of**Alemãos Signature Spa website and online store.** 
