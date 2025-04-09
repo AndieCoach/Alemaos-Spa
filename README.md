@@ -1,4 +1,4 @@
-| ⚠️IMPORTANT | AVOID ANY HASSLE, READ FULL DOCUMENTATION. |
+| ⚠️ | Read full documentation |
 | ----------- | ----------- |
 
 ## Description
