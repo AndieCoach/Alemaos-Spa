@@ -1,36 +1,3 @@
-/* =================================================================== 
- *
- *  Count v1.0 Base Stylesheet
- *  04-16-2018
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  # imports 
- *  # normalize
- *  # basic/base setup styles
- *    ## media
- *    ## typography resets
- *    ## links     
- *    ## inputs
- *  # grid
- *    ## medium size devices
- *    ## tablets 
- *    ## mobile devices
- *    ## small mobile devices
- *  # block grids
- *    ## medium size devices
- *    ## tablets
- *    ## mobile devices
- *    ## small mobile devices
- *  # MISC
- *
- * =================================================================== */
-
-
-/* ===================================================================
- * # imports - (_imports.scss)
- *
- * ------------------------------------------------------------------- */
 @import url("font-awesome/css/fontawesome-all.css");
 @import url("fonts.css");
 
@@ -945,5 +912,3 @@ textarea {
   margin-right: auto;
   text-align: center;
 }
-
-/*# sourceMappingURL=base.css.map */
