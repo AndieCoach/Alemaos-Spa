@@ -1,44 +1,3 @@
-/* =================================================================== 
- *
- *  Count v1.0 Main Stylesheet
- *  04-16-2018
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  # base style overrides
- *    ## links
- *  # typography & general theme styles
- *    ## lists
- *    ## responsive video container
- *    ## floated image
- *    ## tables
- *    ## Spacing
- *    ## pace.js styles - minimal
- *  # preloader
- *  # forms
- *    ## style placeholder text
- *    ## change autocomplete styles in chrome
- *  # buttons
- *  # additional components
- *    ## additional typo styles
- *  # home
- *    ## home slides
- *    ## home particles 
- *    ## site logo
- *    ## home content
- *    ## home social
- *    ## home copyright
- *    ## home animations
- *  # info
- *    ## info toggle
- *
- * =================================================================== */
-
-
-/* ===================================================================
- * # base style overrides - (_document-setup.scss)
- *
- * ------------------------------------------------------------------- */
 html {
   font-size: 10px;
 }
@@ -2375,5 +2334,3 @@ html.no-csstransitions .home-content__main {
   }
 
 }
-
-/*# sourceMappingURL=main.css.map */
