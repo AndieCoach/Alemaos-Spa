@@ -19,4 +19,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 ## ATTRIBUTION
-When using this resource, even for republish or promotion purposes, please must include credit link to our website [FuturaVision Studio®](https://futuravision.site). Preferably keep the already included footer credit within the document, but feel free to move it to another place if needed. For further information or questions about the license,do not hesitate to contact me.
+When using this resource, even for republish or promotion purposes, please must include credit link to our website [FuturaVision Studio®](https://futuravision.site). Preferably keep the already included footer credit within the document, but feel free to move it to another place if needed. For further information or questions about the license,do not hesitate to contact us.
