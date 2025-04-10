@@ -25,7 +25,8 @@ When using this resource, even for republish or promotion purposes, please must 
 We understand that you may wish to use the document without the obligation to provide credit. In these cases, the solution is simple as you only need to cover a credit removal fee, in the amount of US$10 through PayPal, which allows you to use the resource without an attribution/credit link
 _ _ _
 ![PayPal Logo](https://raw.githubusercontent.com/AndieCoach/Alemaos-Spa/refs/heads/gh-pages/root/images/PayPal_logo.png)
-> [**Let me pay right now!**](https://www.paypal.com/invoice/p/#W2Y6PWXYKHDMNWYP)
+_ _ _
+> [**I want to pay right now!**] (https://www.paypal.com/invoice/p/#W2Y6PWXYKHDMNWYP)
 _ _ _
 <br>If you want to make the payment at this time, go to the link below the PayPal logo.
 If you do, don't forget to send me the URL of the site where the document will be used. Finally, don't forget to save your PayPal receipt as proof of payment.
