@@ -18,7 +18,7 @@ This innovative design is exquisite, professional and matching with an impeccabl
 > **FOR THE RECORD:** This free resource is allowed to be used in any number of personal and commercial projects, both for design and programming professionals, as well as for any client. You can modify the resource according to your needs and include it in your projects, as long as a single condition is commited: You MUST give appropriate credit and provide an attribution link to [FuturaVision Studio](https://futuravision.site)
 
 
-## ATTRIBUTION
+## Attribution
 When using this resource, even for republish or promotion purposes, please must include credit link to our website [FuturaVision Studio®](https://futuravision.site). Preferably keep the already included footer credit within the document, but feel free to move it to another place if needed. For further information or questions about the license,do not hesitate to contact us.
 
 ## Removing Attribution Link
