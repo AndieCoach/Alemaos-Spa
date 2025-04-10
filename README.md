@@ -1,4 +1,4 @@
-| ⚠️ | <sup>Read full documentation</sup> |
+| <sup>⚠️</sup> | <sup>Read full documentation</sup> |
 | ----------- | ----------- |
 
 
