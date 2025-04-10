@@ -20,3 +20,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## ATTRIBUTION
 When using this resource, even for republish or promotion purposes, please must include credit link to our website [FuturaVision Studio®](https://futuravision.site). Preferably keep the already included footer credit within the document, but feel free to move it to another place if needed. For further information or questions about the license,do not hesitate to contact us.
+
+## Removing Attribution Link
+We understand that you may wish to use the document without the obligation to provide credit. In these cases, the solution is simple as you only need to cover a credit removal fee, in the amount of US$10 through PayPal, which allows you to use the resource without an attribution/credit link
+
+If you want to make the payment at this time, go to the link below the PayPal logo.
+If you do, don't forget to send me the URL of the site where the document will be used. Finally, don't forget to save your PayPal receipt as proof of payment.
