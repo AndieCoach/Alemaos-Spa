@@ -26,7 +26,7 @@ We understand that you may wish to use the document without the obligation to pr
 _ _ _
 ![PayPal Logo](https://raw.githubusercontent.com/AndieCoach/Alemaos-Spa/refs/heads/gh-pages/root/images/PayPal_logo.png)
 _ _ _
-[ **Get payment done right now!** ](https://www.paypal.com/invoice/p/#W2Y6PWXYKHDMNWYP)
+[ **Let me get payment done right now!** ](https://www.paypal.com/invoice/p/#W2Y6PWXYKHDMNWYP)
 _ _ _
 <br>If you want to make the payment at this time, go to the link below the PayPal logo.
 If you do, don't forget to send me the URL of the site where the document will be used. Finally, don't forget to save your PayPal receipt as proof of payment.
