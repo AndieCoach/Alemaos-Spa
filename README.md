@@ -1,4 +1,4 @@
-| ⚠️ | Read full documentation |
+| ⚠️ | <sup>Read full documentation</sup> |
 | ----------- | ----------- |
 
 
