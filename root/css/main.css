@@ -1888,7 +1888,9 @@ html.no-csstransitions .home-content__main {
     font-size: 8rem;
     padding-right: 5.5rem;
   }
-
+  .home-logo img {
+    width: 440px;
+    height: 110px;
 }
 
 @media only screen and (max-width:600px) {
