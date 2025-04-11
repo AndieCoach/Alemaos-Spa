@@ -1974,12 +1974,12 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-logo {
-    right: 30px;
+    right: 5px;
   }
 
   .home-logo img {
-    width: 200px;
-    height: 50px;
+    width: 400px;
+    height: 100px;
   }
 
   .home-content h1 {
