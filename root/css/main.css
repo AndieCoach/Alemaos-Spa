@@ -1104,7 +1104,7 @@ input::-moz-focus-inner {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(root/images/hero-bg.jpg);
 }
 
 .s-home--static::before {
@@ -1978,8 +1978,8 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-logo img {
-    width: 95px;
-    height: 24px;
+    width: 200px;
+    height: 50px;
   }
 
   .home-content h1 {
