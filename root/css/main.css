@@ -1082,8 +1082,8 @@ input::-moz-focus-inner {
 .s-home {
   z-index: 501;
   display: table;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   min-height: 720px;
   background-color: #111111;
   position: relative; 
@@ -1121,8 +1121,8 @@ input::-moz-focus-inner {
 }
 
 .s-home--particles {
-  background: #141414;
-  background: radial-gradient(circle, #141414 0%, black 100%);
+  background: #343434;
+  background: radial-gradient(circle, #343434 0%, black 100%);
 }
 
 .s-home--particles::before {
@@ -1131,8 +1131,8 @@ input::-moz-focus-inner {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   opacity: .35;
   background: #000000;
 }
@@ -1141,8 +1141,8 @@ input::-moz-focus-inner {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   opacity: .3;
   background-color: #000000;
 }
@@ -1153,8 +1153,8 @@ input::-moz-focus-inner {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   opacity: .6;
   background: linear-gradient(to right, black 0%, black 20%, transparent 100%);
 }
@@ -1245,8 +1245,8 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 160px;
-  height: 40px;
+  width: 400px;
+  height: 100px;
 }
 
 
@@ -1793,6 +1793,7 @@ html.no-csstransitions .home-content__main {
 
   .home-content {
     overflow-y: auto;
+    overflow-x: clip;
   }
 
   .home-content {
@@ -1979,8 +1980,8 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-logo img {
-    width: 400px;
-    height: 100px;
+    width: 350px;
+    height: 87.5px;
   }
 
   .home-content h1 {
@@ -1988,7 +1989,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__main {
-    max-width: auto;
+    max-width: 100vw;
   }
 
   .home-content__text {
