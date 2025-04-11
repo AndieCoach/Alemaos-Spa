@@ -33,7 +33,7 @@
  * ------------------------------------------------------------------- */
 @import url("font-awesome/css/fontawesome-all.css");
 @import url("fonts.css");
-
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&family=Fredericka+the+Great&family=Homemade+Apple:ital,wght@0,100..900;1,100..900&display=swap’);
 
 /* ===================================================================
  * # normalize - (_normalize.scss)
@@ -42,7 +42,7 @@
  *
  * ------------------------------------------------------------------- */
 html {
-  font-family: 'Roboto-Regular-Webfont', sans-serif;
+  font-family: 'Urbanist', sans-serif;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
