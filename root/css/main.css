@@ -58,7 +58,7 @@ body {
 
 body {
   background: #fff0f0;
-  font-family: "roboto-regular-webfont", sans-serif;
+  font-family: 'urbanist', sans-serif;
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
@@ -95,7 +95,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "domine-regular", serif;
+  font-family: 'Fredericka the Great', serif;
   color: #000000;
   font-style: normal;
   font-weight: normal;
